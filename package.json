@@ -1,0 +1,27 @@
+{
+	"name": "css-checkbox",
+	"version": "1.0.0",
+	"description": "Friendly CSS checkbox control",
+	"repository": "frekyll/css-checkbox",
+	"main": "index.css",
+	"scripts": {
+		"test": "stylelint index.css"
+	},
+	"keywords": [
+		"browser",
+		"checkbox",
+		"control",
+		"css",
+		"form",
+		"style"
+	],
+	"author": "Josh Wenning",
+	"license": "MIT",
+	"devDependencies": {
+		"stylelint": "^9.10.1",
+		"stylelint-config-xo": "^0.13.0"
+	},
+	"stylelint": {
+		"extends": "stylelint-config-xo"
+	}
+}
