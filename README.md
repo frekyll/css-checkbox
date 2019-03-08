@@ -33,9 +33,6 @@ css('css-checkbox')
 ### npm
 `npm install css-checkbox`
 
-### Download
-[Download latest](https://github.com/frekyll/css-checkbox/archive/v1.0.0.zip)
-
 ## Related
 - [minimal-reset](https://github.com/frekyll/minimal-reset)
 - [sheetify](https://github.com/stackcss/sheetify)
