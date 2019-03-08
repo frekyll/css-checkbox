@@ -6,7 +6,7 @@
 This is inspired by [wtf-forms](https://github.com/mdo/wtf-forms). I often find myself copying this source, so I made a package.
 
 ## Features
-- Create larger hit area for checking the control
+- Create a larger hit area for checking the control
 - Replace the default `<input>` with a semantic wrapper
 - Trigger the state of `<input>` automatically
 
