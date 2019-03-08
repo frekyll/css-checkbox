@@ -1,6 +1,8 @@
 # css-checkbox
 > Friendly CSS checkbox control
 
+[![Build Status](https://travis-ci.org/frekyll/css-checkbox.svg?branch=master)](https://travis-ci.org/frekyll/css-checkbox)
+
 This is inspired by [wtf-forms](https://github.com/mdo/wtf-forms). I often find myself copying this source, so I made a package.
 
 ## Features
