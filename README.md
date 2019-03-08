@@ -13,9 +13,9 @@ This is inspired by [wtf-forms](https://github.com/mdo/wtf-forms). I often find 
 ## Example
 
 ```html
-<label class="control checkbox">
+<label class="checkbox">
 	<input type="checkbox">
-	<span class="control-indicator"></span>
+	<span class="checkbox-indicator"></span>
 	Custom checkbox
 </label>
 ```
