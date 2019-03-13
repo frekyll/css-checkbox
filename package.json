@@ -1,6 +1,6 @@
 {
 	"name": "css-checkbox",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Friendly CSS checkbox control",
 	"repository": "frekyll/css-checkbox",
 	"main": "index.css",
